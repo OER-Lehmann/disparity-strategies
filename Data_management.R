@@ -34,3 +34,4 @@ for (i in seq_along(FileNames)) {
 
 x <- x[-1]
 
+x
